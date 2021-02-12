@@ -32,7 +32,7 @@ const TitleMessage = () => (
     <div className="titleMessage">
       <div className="heading">
         <div className="main text-center mb-3">
-          H!, I @M
+          Hi, ! @M
           <br />
           <span>
             <strong>B V SAI KIRAN</strong>

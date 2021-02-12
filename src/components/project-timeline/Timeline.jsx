@@ -47,7 +47,7 @@ const ProjectTimeline = () => {
 
                 {/* Project: MyProtofolio */}
             <ImageEvent
-            date="03/02/2021"
+            date="10/02/2021"
             className="text-center"
             text="WhatsApp Clone"
             src={L_WHATSAPP}
@@ -227,7 +227,7 @@ const ProjectTimeline = () => {
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
               <UrlButton
-                  href="https://bvsaikiran.github.io/myProtofolio/"
+                  href="https://bvsaikiran.github.io/MyPortfolio/"
                   target="_blank"
                 >
                   SEE LIVE
